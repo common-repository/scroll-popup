@@ -1,0 +1,36 @@
+.more_plugins ul {
+    margin: 0;
+    padding: 0;
+}
+.more_plugins ul li {
+    display: block;
+    float: left;
+    list-style: outside none none;
+    overflow: hidden;
+    padding: 10px;
+    width: 250px;
+}
+.more_plugins {
+    display: block;
+    overflow: hidden;
+}
+.more_plugins ul li a img {
+    height: auto;
+    width: 100%;
+}
+.more_plugins ul li a:hover {
+    border: 1px solid #ff0000;
+    display: block;
+}
+
+#kento-popup-screen-bg-img-preview {
+    display: block;
+    height: auto;
+    overflow: hidden;
+    width: 400px;
+}
+#kento-popup-screen-bg-img-preview img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
